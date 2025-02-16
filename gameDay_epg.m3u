@@ -1,0 +1,977 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Sky Sport Select.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wfd0yt1642607115.png" group-title="> World Sport <", Sky Sport Select NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/587&Title=Sky Sport Select NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/wfd0yt1642607115.png
+
+#EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" group-title="> World Sport <", Sky Sport 1 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/588&Title=Sky Sport 1 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png
+
+#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png" group-title="> World Sport <", Sky Sport 2 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/589&Title=Sky Sport 2 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png
+
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png" group-title="> World Sport <", Sky Sport 3 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/590&Title=Sky Sport 3 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png
+
+#EXTINF:-1 tvg-id="Sky Sport 4.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png" group-title="> World Sport <", Sky Sport 4 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/591&Title=Sky Sport 4 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png
+
+#EXTINF:-1 tvg-id="Sky Sport 5.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png" group-title="> World Sport <", Sky Sport 5 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/592&Title=Sky Sport 5 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png
+
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png" group-title="> World Sport <", Sky Sport 6 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/593&Title=Sky Sport 6 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png
+
+#EXTINF:-1 tvg-id="Sky Sport 7.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png" group-title="> World Sport <", Sky Sport 7 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/594&Title=Sky Sport 7 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png
+
+#EXTINF:-1 tvg-id="Sky Sport Premier League.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="> World Sport <", Sky Sport 8 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/595&Title=Sky Sport 8 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png
+
+#EXTINF:-1 tvg-id="Sky Sport 9.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png" group-title="> World Sport <", Sky Sport 9 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/596&Title=Sky Sport 9 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png
+
+#EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" group-title="> EPL Channels <", Sky Sport 1 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/588&Title=Sky Sport 1 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png
+
+#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png" group-title="> EPL Channels <", Sky Sport 2 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/589&Title=Sky Sport 2 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png
+
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png" group-title="> EPL Channels <", Sky Sport 3 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/590&Title=Sky Sport 3 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png
+
+#EXTINF:-1 tvg-id="Sky Sport 4.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png" group-title="> EPL Channels <", Sky Sport 4 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/591&Title=Sky Sport 4 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png
+
+#EXTINF:-1 tvg-id="Sky Sport 5.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png" group-title="> EPL Channels <", Sky Sport 5 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/592&Title=Sky Sport 5 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png
+
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png" group-title="> EPL Channels <", Sky Sport 6 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/593&Title=Sky Sport 6 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png
+
+#EXTINF:-1 tvg-id="Sky Sport 7.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png" group-title="> EPL Channels <", Sky Sport 7 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/594&Title=Sky Sport 7 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png
+
+#EXTINF:-1 tvg-id="Sky Sport Premier League.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="> EPL Channels <", Sky Sport 8 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/595&Title=Sky Sport 8 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png
+
+#EXTINF:-1 tvg-id="Sky Sport 9.nz" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png" group-title="> EPL Channels <", Sky Sport 9 NZ
+plugin://plugin.video.the-loop/eplayer/play?url=epg/596&Title=Sky Sport 9 NZ&Icon=https://www.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-uk.png" group-title="> UK Entertainment <", 5USA Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/360&Title=5USA Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-uk.png
+
+#EXTINF:-1 tvg-id="AandE Network HDTV.us" tvg-name="" tvg-logo="https://i.imgur.com/4QFkDVo.png" group-title="> World Entertainment <", A&E Tv
+plugin://plugin.video.the-loop/eplayer/play?url=epg/302&Title=A&E Tv&Icon=https://i.imgur.com/4QFkDVo.png
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="> World Entertainment <", ABC USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/51&Title=ABC USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png
+
+#EXTINF:-1 tvg-id="AMC (East).us" tvg-name="" tvg-logo="https://i.imgur.com/EEIOe1N.png" group-title="> World Entertainment <", AMC TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/303&Title=AMC TV&Icon=https://i.imgur.com/EEIOe1N.png
+
+#EXTINF:-1 tvg-id="Animal Planet (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="> World Entertainment <", Animal Planet
+plugin://plugin.video.the-loop/eplayer/play?url=epg/304&Title=Animal Planet&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png
+
+#EXTINF:-1 tvg-id="Antena 3.es" tvg-name="" tvg-logo="https://i.imgur.com/qlTQWeu.png" group-title="> World Entertainment <", Antena 3 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/531&Title=Antena 3 Spain&Icon=https://i.imgur.com/qlTQWeu.png
+
+#EXTINF:-1 tvg-id="BBC America (East).us" tvg-name="" tvg-logo="https://i.imgur.com/Q3nlI0z.png" group-title="> World Entertainment <", BBC America
+plugin://plugin.video.the-loop/eplayer/play?url=epg/305&Title=BBC America&Icon=https://i.imgur.com/Q3nlI0z.png
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="> UK Entertainment <", BBC Four UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/359&Title=BBC Four UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png
+
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/Ew0x7GD.png" group-title="> UK Entertainment <", BBC News UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/349&Title=BBC News UK&Icon=https://i.imgur.com/Ew0x7GD.png
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="> UK Entertainment <", BBC One UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/356&Title=BBC One UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hbd31f1643577726.png" group-title="> UK Entertainment <", BBC Three UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/358&Title=BBC Three UK&Icon=https://www.thesportsdb.com/images/media/channel/logo/hbd31f1643577726.png
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/8wkksp1680291500.png" group-title="> UK Entertainment <", BBC Two UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/357&Title=BBC Two UK&Icon=https://www.thesportsdb.com/images/media/channel/logo/8wkksp1680291500.png
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="" tvg-logo="https://i.imgur.com/xMRD76A.png" group-title="> World Entertainment <", BET Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/306&Title=BET Network&Icon=https://i.imgur.com/xMRD76A.png
+
+#EXTINF:-1 tvg-id="Bravo (East).us" tvg-name="" tvg-logo="https://i.imgur.com/e6VR81Q.png" group-title="> World Entertainment <", Bravo TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/307&Title=Bravo TV&Icon=https://i.imgur.com/e6VR81Q.png
+
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="" tvg-logo="https://i.imgur.com/uqcCFiU.png" group-title="> World Entertainment <", CBS USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/52&Title=CBS USA&Icon=https://i.imgur.com/uqcCFiU.png
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="> World Entertainment <", CNBC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/309&Title=CNBC&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="" tvg-logo="https://i.imgur.com/VQHoh0e.png" group-title="> World Entertainment <", CNN USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/345&Title=CNN USA&Icon=https://i.imgur.com/VQHoh0e.png
+
+#EXTINF:-1 tvg-id="The CW.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ebn3be1666778400.png" group-title="> World Entertainment <", CW USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/300&Title=CW USA&Icon=https://www.thesportsdb.com/images/media/channel/logo/ebn3be1666778400.png
+
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="" tvg-logo="https://i.imgur.com/dIo6riz.png" group-title="> World Entertainment <", Canal + Seriale
+plugin://plugin.video.the-loop/eplayer/play?url=epg/570&Title=Canal + Seriale&Icon=https://i.imgur.com/dIo6riz.png
+
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="" tvg-logo="https://i.imgur.com/bM8gTd7.png" group-title="> World Entertainment <", Canal+ Family Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/567&Title=Canal+ Family Poland&Icon=https://i.imgur.com/bM8gTd7.png
+
+#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="" tvg-logo="https://i.imgur.com/EUKyba8.png" group-title="> World Entertainment <", Canal+ France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/121&Title=Canal+ France&Icon=https://i.imgur.com/EUKyba8.png
+
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="" tvg-logo="https://i.imgur.com/60y7QPp.png" group-title="> World Entertainment <", Canal+ Premium Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/566&Title=Canal+ Premium Poland&Icon=https://i.imgur.com/60y7QPp.png
+
+#EXTINF:-1 tvg-id="Cartoon Network (East).us" tvg-name="" tvg-logo="https://i.imgur.com/JtZXI3Q.png" group-title="> Kids Entertainment <", Cartoon Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/339&Title=Cartoon Network&Icon=https://i.imgur.com/JtZXI3Q.png
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="> UK Entertainment <", Channel 4 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/354&Title=Channel 4 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="> UK Entertainment <", Channel 5 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/355&Title=Channel 5 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png
+
+#EXTINF:-1 tvg-id="Comedy Central (East).us" tvg-name="" tvg-logo="https://i.imgur.com/J9C5eGt.png" group-title="> World Entertainment <", Comedy Central
+plugin://plugin.video.the-loop/eplayer/play?url=epg/310&Title=Comedy Central&Icon=https://i.imgur.com/J9C5eGt.png
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="" tvg-logo="https://i.imgur.com/tCDoDo9.png" group-title="> World Entertainment <", Cuatro Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/535&Title=Cuatro Spain&Icon=https://i.imgur.com/tCDoDo9.png
+
+#EXTINF:-1 tvg-id="U.and.Dave.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" group-title="> UK Entertainment <", Dave Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/348&Title=Dave Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png
+
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-name="" tvg-logo="https://i.imgur.com/3Zk9r4O.png" group-title="> World Entertainment <", Digi Sport 1 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/400&Title=Digi Sport 1 Romania&Icon=https://i.imgur.com/3Zk9r4O.png
+
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-name="" tvg-logo="https://i.imgur.com/VacpkS5.png" group-title="> World Entertainment <", Digi Sport 2 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/401&Title=Digi Sport 2 Romania&Icon=https://i.imgur.com/VacpkS5.png
+
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-name="" tvg-logo="https://i.imgur.com/Yag4dGn.png" group-title="> World Entertainment <", Digi Sport 3 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/402&Title=Digi Sport 3 Romania&Icon=https://i.imgur.com/Yag4dGn.png
+
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-name="" tvg-logo="https://i.imgur.com/r1ap7Tw.png" group-title="> World Entertainment <", Digi Sport 4 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/403&Title=Digi Sport 4 Romania&Icon=https://i.imgur.com/r1ap7Tw.png
+
+#EXTINF:-1 tvg-id="The Discovery Channel (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="> World Entertainment <", Discovery HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/313&Title=Discovery HD&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png
+
+#EXTINF:-1 tvg-id="Discovery Life Channel.us" tvg-name="" tvg-logo="https://i.imgur.com/HiIqETf.png" group-title="> World Entertainment <", Discovery Life
+plugin://plugin.video.the-loop/eplayer/play?url=epg/311&Title=Discovery Life&Icon=https://i.imgur.com/HiIqETf.png
+
+#EXTINF:-1 tvg-id="The Disney Channel (East).us" tvg-name="" tvg-logo="https://i.imgur.com/5SpAvuk.png" group-title="> Kids Entertainment <", Disney Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/312&Title=Disney Channel&Icon=https://i.imgur.com/5SpAvuk.png
+
+#EXTINF:-1 tvg-id="Disney XD (East).us" tvg-name="" tvg-logo="https://i.imgur.com/5dmSJSh.png" group-title="> Kids Entertainment <", Disney XD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/314&Title=Disney XD&Icon=https://i.imgur.com/5dmSJSh.png
+
+#EXTINF:-1 tvg-id="E! Entertainment Television (East).us" tvg-name="" tvg-logo="https://i.imgur.com/xSNY9MG.png" group-title="> World Entertainment <", E! Entertainment
+plugin://plugin.video.the-loop/eplayer/play?url=epg/315&Title=E! Entertainment&Icon=https://i.imgur.com/xSNY9MG.png
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png" group-title="> UK Entertainment <", E4 Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/363&Title=E4 Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png" group-title="> World Entertainment <", FOX USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/54&Title=FOX USA&Icon=https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png
+
+#EXTINF:-1 tvg-id="FX Movie Channel.us" tvg-name="" tvg-logo="https://i.imgur.com/dja7am4.png" group-title="> World Entertainment <", FX Movie Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/381&Title=FX Movie Channel&Icon=https://i.imgur.com/dja7am4.png
+
+#EXTINF:-1 tvg-id="FX (East).us" tvg-name="" tvg-logo="https://i.imgur.com/YCaTbxE.png" group-title="> World Entertainment <", FX TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/317&Title=FX TV&Icon=https://i.imgur.com/YCaTbxE.png
+
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png" group-title="> World Entertainment <", MeTV Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/662&Title=METV USA&Icon=https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png
+
+#EXTINF:-1 tvg-id="Fox News.us" tvg-name="" tvg-logo="https://i.imgur.com/U5f4tZJ.png" group-title="> World Entertainment <", Fox News
+plugin://plugin.video.the-loop/eplayer/play?url=epg/347&Title=Fox News&Icon=https://i.imgur.com/U5f4tZJ.png
+
+#EXTINF:-1 tvg-id="Freeform (East).us" tvg-name="" tvg-logo="https://i.imgur.com/jf10lND.png" group-title="> World Entertainment <", Freeform
+plugin://plugin.video.the-loop/eplayer/play?url=epg/301&Title=Freeform&Icon=https://i.imgur.com/jf10lND.png
+
+#EXTINF:-1 tvg-id="Game Show Network HDTV (EAST).us" tvg-name="" tvg-logo="https://i.imgur.com/Hfwm4kf.png" group-title="> World Entertainment <", Game Show Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/319&Title=Game Show Network&Icon=https://i.imgur.com/Hfwm4kf.png
+
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="" tvg-logo="https://i.imgur.com/tgRTts5.png" group-title="> World Entertainment <", HBO Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/569&Title=HBO Poland&Icon=https://i.imgur.com/tgRTts5.png
+
+#EXTINF:-1 tvg-id="HBO (East).us" tvg-name="" tvg-logo="https://i.imgur.com/tgRTts5.png" group-title="> World Entertainment <", HBO USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/321&Title=HBO USA&Icon=https://i.imgur.com/tgRTts5.png
+
+#EXTINF:-1 tvg-id="History (East).us" tvg-name="" tvg-logo="https://i.imgur.com/Es2KChJ.png" group-title="> World Entertainment <", History TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/322&Title=History TV&Icon=https://i.imgur.com/Es2KChJ.png
+
+#EXTINF:-1 tvg-id="ION East Cable/Dish.us" tvg-name="" tvg-logo="https://i.imgur.com/l3weFin.png" group-title="> World Entertainment <", ION Television
+plugin://plugin.video.the-loop/eplayer/play?url=epg/325&Title=ION Television&Icon=https://i.imgur.com/l3weFin.png
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="> UK Entertainment <", ITV 1 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/350&Title=ITV 1 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="> UK Entertainment <", ITV 2 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/351&Title=ITV 2 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/M6GD6p1.png" group-title="> UK Entertainment <", ITV 3 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/352&Title=ITV 3 UK&Icon=https://i.imgur.com/M6GD6p1.png
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="> UK Entertainment <", ITV 4 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/353&Title=ITV 4 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png
+
+#EXTINF:-1 tvg-id="Investigation Discovery.us" tvg-name="" tvg-logo="https://i.imgur.com/SDFQyJV.png" group-title="> World Entertainment <", Investigation Discovery
+plugin://plugin.video.the-loop/eplayer/play?url=epg/324&Title=Investigation Discovery&Icon=https://i.imgur.com/SDFQyJV.png
+
+#EXTINF:-1 tvg-id="Lifetime Movies (East).us" tvg-name="" tvg-logo="https://i.imgur.com/2a8ilsr.png" group-title="> World Entertainment <", Lifetime Movie Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/326&Title=Lifetime Movie Network&Icon=https://i.imgur.com/2a8ilsr.png
+
+#EXTINF:-1 tvg-id="Lifetime Movies (East).us" tvg-name="" tvg-logo="https://i.imgur.com/ylgUOon.png" group-title="> World Entertainment <", Lifetime Movies Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/389&Title=Lifetime Movies Network&Icon=https://i.imgur.com/ylgUOon.png
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="" tvg-logo="https://i.imgur.com/2JXicrG.png" group-title="> World Entertainment <", MSNBC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/327&Title=MSNBC&Icon=https://i.imgur.com/2JXicrG.png
+
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/sf2MxFO.png" group-title="> UK Entertainment <", MTV UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/367&Title=MTV UK&Icon=https://i.imgur.com/sf2MxFO.png
+
+#EXTINF:-1 tvg-id="MTV (East).us" tvg-name="" tvg-logo="https://i.imgur.com/sf2MxFO.png" group-title="> World Entertainment <", MTV USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/371&Title=MTV USA&Icon=https://i.imgur.com/sf2MxFO.png
+
+#EXTINF:-1 tvg-id="M+ Deportes.es" tvg-name="" tvg-logo="https://i.imgur.com/oDFUOjz.png" group-title="> World Entertainment <", Movistar Deportes 1 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/437&Title=Movistar Deportes 1 Spain&Icon=https://i.imgur.com/oDFUOjz.png
+
+#EXTINF:-1 tvg-id="M+ Deportes 2.es" tvg-name="" tvg-logo="https://i.imgur.com/0T5cRzW.png" group-title="> World Entertainment <", Movistar Deportes 2 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/438&Title=Movistar Deportes 2 Spain&Icon=https://i.imgur.com/0T5cRzW.png
+
+#EXTINF:-1 tvg-id="M+ Deportes 3.es" tvg-name="" tvg-logo="https://i.imgur.com/z1YcZ9p.png" group-title="> World Entertainment <", Movistar Deportes 3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/526&Title=Movistar Deportes 3&Icon=https://i.imgur.com/z1YcZ9p.png
+
+#EXTINF:-1 tvg-id="M+ Deportes 4.es" tvg-name="" tvg-logo="https://i.imgur.com/Aqhe5SG.png" group-title="> World Entertainment <", Movistar Deportes 4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/527&Title=Movistar Deportes 4&Icon=https://i.imgur.com/Aqhe5SG.png
+
+#EXTINF:-1 tvg-id="M+ Deportes.es" tvg-name="" tvg-logo="https://i.imgur.com/Aqh4Mw1.png" group-title="> World Entertainment <", Movistar Deportes Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/436&Title=Movistar Deportes Spain&Icon=https://i.imgur.com/Aqh4Mw1.png
+
+#EXTINF:-1 tvg-id="Nick Jr..us" tvg-name="" tvg-logo="https://i.imgur.com/DhiDRrX.png" group-title="> Kids Entertainment <", NICK JR
+plugin://plugin.video.the-loop/eplayer/play?url=epg/329&Title=NICK JR&Icon=https://i.imgur.com/DhiDRrX.png
+
+#EXTINF:-1 tvg-id="Nickelodeon (East).us" tvg-name="" tvg-logo="https://i.imgur.com/0j9uS1c.png" group-title="> Kids Entertainment <", NICK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/330&Title=NICK&Icon=https://i.imgur.com/0j9uS1c.png
+
+#EXTINF:-1 tvg-id="National Geographic Channel HDTV.us" tvg-name="" tvg-logo="https://i.imgur.com/OQGtADo.png" group-title="> World Entertainment <", National Geographic
+plugin://plugin.video.the-loop/eplayer/play?url=epg/328&Title=National Geographic&Icon=https://i.imgur.com/OQGtADo.png
+
+#EXTINF:-1 tvg-id="The Oprah Winfrey Network HDTV (East).us" tvg-name="" tvg-logo="https://i.imgur.com/otZWFQ7.png" group-title="> World Entertainment <", Oprah Winfrey Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/331&Title=Oprah Winfrey Network&Icon=https://i.imgur.com/otZWFQ7.png
+
+#EXTINF:-1 tvg-id="Oxygen (East).us" tvg-name="" tvg-logo="https://i.imgur.com/5GArYYv.png" group-title="> World Entertainment <", Oxygen TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/332&Title=Oxygen TV&Icon=https://i.imgur.com/5GArYYv.png
+
+#EXTINF:-1 tvg-id="Paramount Network (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/paramount-network-uk.png" group-title="> World Entertainment <", Paramount Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/334&Title=Paramount Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/paramount-network-uk.png
+
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="" tvg-logo="https://i.imgur.com/9mhq4wU.png" group-title="> World Entertainment <", Polsat Film Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/564&Title=Polsat Film Poland&Icon=https://i.imgur.com/9mhq4wU.png
+
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="" tvg-logo="https://i.imgur.com/DEM9iTJ.png" group-title="> World Entertainment <", Polsat Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/562&Title=Polsat Poland&Icon=https://i.imgur.com/DEM9iTJ.png
+
+#EXTINF:-1 tvg-id="RTÉ One.ie" tvg-name="" tvg-logo="https://i.imgur.com/0LOLyKX.png" group-title="> World Entertainment <", RTE 1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/364&Title=RTE 1&Icon=https://i.imgur.com/0LOLyKX.png
+
+#EXTINF:-1 tvg-id="RTÉ2.ie" tvg-name="" tvg-logo="https://i.imgur.com/oipsNAx.png" group-title="> World Entertainment <", RTE 2
+plugin://plugin.video.the-loop/eplayer/play?url=epg/365&Title=RTE 2&Icon=https://i.imgur.com/oipsNAx.png
+
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-name="" tvg-logo="https://i.imgur.com/KeV3eUb.png" group-title="> World Entertainment <", RTL7 NL
+plugin://plugin.video.the-loop/eplayer/play?url=epg/390&Title=RTL7 NL&Icon=https://i.imgur.com/KeV3eUb.png
+
+#EXTINF:-1 tvg-id="Showtime (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="> World Entertainment <", Showtime USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/333&Title=Showtime USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/kyVtjAP.png" group-title="> UK Entertainment <", Sky Atlantic
+plugin://plugin.video.the-loop/eplayer/play?url=epg/362&Title=Sky Atlantic&Icon=https://i.imgur.com/kyVtjAP.png
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/VZqEPkf.png" group-title="> UK Entertainment <", Sky Witness HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/361&Title=Sky Witness HD&Icon=https://i.imgur.com/VZqEPkf.png
+
+#EXTINF:-1 tvg-id="STARZ HD (East).us" tvg-name="" tvg-logo="https://i.imgur.com/1OBAGq3.png" group-title="> World Entertainment <", Starz
+plugin://plugin.video.the-loop/eplayer/play?url=epg/335&Title=Starz&Icon=https://i.imgur.com/1OBAGq3.png
+
+#EXTINF:-1 tvg-id="TBS - East (112).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="> World Entertainment <", TBS
+plugin://plugin.video.the-loop/eplayer/play?url=epg/336&Title=TBS&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png
+
+#EXTINF:-1 tvg-id="TLC USA HD - Eastern (1250).us" tvg-name="" tvg-logo="https://i.imgur.com/b584AbW.png" group-title="> World Entertainment <", TLC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/337&Title=TLC&Icon=https://i.imgur.com/b584AbW.png
+
+#EXTINF:-1 tvg-id="TNT - Eastern Feed (108).us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/16rsdr1657046269.png" group-title="> World Entertainment <", TNT USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/338&Title=TNT USA&Icon=https://www.thesportsdb.com/images/media/channel/logo/16rsdr1657046269.png
+
+#EXTINF:-1 tvg-id="Tu Deportes Network (TUDN) U.S. HDTV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="> World Sport <", TUDN USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/66&Title=TUDN USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png
+
+#EXTINF:-1 tvg-id="TV Land (East).us" tvg-name="" tvg-logo="https://i.imgur.com/UxX1EgB.png" group-title="> World Entertainment <", TVLAND
+plugin://plugin.video.the-loop/eplayer/play?url=epg/342&Title=TVLAND&Icon=https://i.imgur.com/UxX1EgB.png
+
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="" tvg-logo="https://i.imgur.com/sVIkVT7.png" group-title="> World Entertainment <", TVN HD Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/565&Title=TVN HD Poland&Icon=https://i.imgur.com/sVIkVT7.png
+
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="" tvg-logo="https://i.imgur.com/0zWDeKY.png" group-title="> World Entertainment <", TVN24 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/444&Title=TVN24 Poland&Icon=https://i.imgur.com/0zWDeKY.png
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="" tvg-logo="https://i.imgur.com/0X7ia8z.png" group-title="> World Entertainment <", TVP 1 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/560&Title=TVP 1 Poland&Icon=https://i.imgur.com/0X7ia8z.png
+
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="" tvg-logo="https://i.imgur.com/Icp0Mau.png" group-title="> World Entertainment <", TVP 2 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/561&Title=TVP 2 Poland&Icon=https://i.imgur.com/Icp0Mau.png
+
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="" tvg-logo="https://i.imgur.com/pUJOdBS.png" group-title="> World Entertainment <", TVP INFO Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/452&Title=TVP INFO Poland&Icon=https://i.imgur.com/pUJOdBS.png
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="" tvg-logo="https://i.imgur.com/qjGDvjM.png" group-title="> World Entertainment <", Telecinco Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/532&Title=Telecinco Spain&Icon=https://i.imgur.com/qjGDvjM.png
+
+#EXTINF:-1 tvg-id="Telemundo Network (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="> World Entertainment <", Telemundo USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/131&Title=Telemundo USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png
+
+#EXTINF:-1 tvg-id="Food Network HDTV (East).us" tvg-name="" tvg-logo="https://i.imgur.com/3B46KFv.png" group-title="> World Entertainment <", The Food Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/384&Title=The Food Network&Icon=https://i.imgur.com/3B46KFv.png
+
+#EXTINF:-1 tvg-id="Hallmark Channel (East).us" tvg-name="" tvg-logo="https://i.imgur.com/C7Mbd1e.png" group-title="> World Entertainment <", The Hallmark Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/320&Title=The Hallmark Channel&Icon=https://i.imgur.com/C7Mbd1e.png
+
+#EXTINF:-1 tvg-id="The Weather Channel.us" tvg-name="" tvg-logo="https://i.imgur.com/YRX2tY8.png" group-title="> World Entertainment <", The Weather Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/394&Title=The Weather Channel&Icon=https://i.imgur.com/YRX2tY8.png
+
+#EXTINF:-1 tvg-id="Travel Channel (East).us" tvg-name="" tvg-logo="https://i.imgur.com/OiV302w.png" group-title="> World Entertainment <", Travel Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/340&Title=Travel Channel&Icon=https://i.imgur.com/OiV302w.png
+
+#EXTINF:-1 tvg-id="LA 1.es" tvg-name="" tvg-logo="https://i.imgur.com/AeDnAse.png" group-title="> World Entertainment <", TVE La 1 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/533&Title=TVE La 1 Spain&Icon=https://i.imgur.com/AeDnAse.png
+
+#EXTINF:-1 tvg-id="LA 2.es" tvg-name="" tvg-logo="https://i.imgur.com/FTjqkDu.png" group-title="> World Entertainment <", TVE La 2 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/536&Title=TVE La 2 Spain&Icon=https://i.imgur.com/FTjqkDu.png
+
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="> World Entertainment <", USA Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/343&Title=USA Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png
+
+#EXTINF:-1 tvg-id="UniMás (East).us" tvg-name="" tvg-logo="https://i.imgur.com/QaIJNCg.png" group-title="> World Entertainment <", Unimas
+plugin://plugin.video.the-loop/eplayer/play?url=epg/133&Title=Unimas&Icon=https://i.imgur.com/QaIJNCg.png
+
+#EXTINF:-1 tvg-id="Univision Network HDTV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="> World Entertainment <", Univision
+plugin://plugin.video.the-loop/eplayer/play?url=epg/132&Title=Univision&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png
+
+#EXTINF:-1 tvg-id="VH1 (East).us" tvg-name="" tvg-logo="https://i.imgur.com/Jhd7sC2.png" group-title="> World Entertainment <", VH1 USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/344&Title=VH1 USA&Icon=https://i.imgur.com/Jhd7sC2.png
+
+#EXTINF:-1 tvg-id="M+ Vamos.es" tvg-name="" tvg-logo="https://i.imgur.com/Igtmsny.png" group-title="> World Entertainment <", Vamos Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/521&Title=Vamos Spain&Icon=https://i.imgur.com/Igtmsny.png
+
+#EXTINF:-1 tvg-id="Veronica / DisneyXD.nl" tvg-name="" tvg-logo="https://i.imgur.com/y7y889V.png" group-title="> World Entertainment <", Veronica NL Netherland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/378&Title=Veronica NL Netherland&Icon=https://i.imgur.com/y7y889V.png
+
+#EXTINF:-1 tvg-id="truTV (East).us" tvg-name="" tvg-logo="https://i.imgur.com/21lB7bs.png" group-title="> World Entertainment <", tru TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/341&Title=tru TV&Icon=https://i.imgur.com/21lB7bs.png
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.hr" tvg-name="" tvg-logo="https://i.imgur.com/ZpnMOpD.png" group-title="> World Sport <", Arena Sport 1 Croatia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/432&Title=Arena Sport 1 Croatia&Icon=https://i.imgur.com/ZpnMOpD.png
+
+#EXTINF:-1 tvg-id="Arena Sport Premium 1.rs" tvg-name="" tvg-logo="https://i.imgur.com/uB6D6WR.png" group-title="> World Sport <", Arena Sport 1 Premium
+plugin://plugin.video.the-loop/eplayer/play?url=epg/134&Title=Arena Sport 1 Premium&Icon=https://i.imgur.com/uB6D6WR.png
+
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="" tvg-logo="https://i.imgur.com/ZpnMOpD.png" group-title="> World Sport <", Arena Sport 1 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/429&Title=Arena Sport 1 Serbia&Icon=https://i.imgur.com/ZpnMOpD.png
+
+#EXTINF:-1 tvg-id="Arena Sport 2 HD.hr" tvg-name="" tvg-logo="https://i.imgur.com/6aE6XXu.png" group-title="> World Sport <", Arena Sport 2 Croatia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/433&Title=Arena Sport 2 Croatia&Icon=https://i.imgur.com/6aE6XXu.png
+
+#EXTINF:-1 tvg-id="Arena Sport Premium 2.rs" tvg-name="" tvg-logo="https://i.imgur.com/S5uf1nq.png" group-title="> World Sport <", Arena Sport 2 Premium
+plugin://plugin.video.the-loop/eplayer/play?url=epg/135&Title=Arena Sport 2 Premium&Icon=https://i.imgur.com/S5uf1nq.png
+
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="" tvg-logo="https://i.imgur.com/6aE6XXu.png" group-title="> World Sport <", Arena Sport 2 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/430&Title=Arena Sport 2 Serbia&Icon=https://i.imgur.com/6aE6XXu.png
+
+#EXTINF:-1 tvg-id="Arena Sport 3 HD.hr" tvg-name="" tvg-logo="https://i.imgur.com/UxPwDa6.png" group-title="> World Sport <", Arena Sport 3 Croatia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/434&Title=Arena Sport 3 Croatia&Icon=https://i.imgur.com/UxPwDa6.png
+
+#EXTINF:-1 tvg-id="Arena Sport Premium 3.rs" tvg-name="" tvg-logo="https://i.imgur.com/i67K5VN.png" group-title="> World Sport <", Arena Sport 3 Premium
+plugin://plugin.video.the-loop/eplayer/play?url=epg/139&Title=Arena Sport 3 Premium&Icon=https://i.imgur.com/i67K5VN.png
+
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="" tvg-logo="https://i.imgur.com/UxPwDa6.png" group-title="> World Sport <", Arena Sport 3 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/431&Title=Arena Sport 3 Serbia&Icon=https://i.imgur.com/UxPwDa6.png
+
+#EXTINF:-1 tvg-id="ASTRO CRICKET HD.my" tvg-name="" tvg-logo="https://i.imgur.com/3fl3kuD.png" group-title="> World Sport <", Astro Cricket
+plugin://plugin.video.the-loop/eplayer/play?url=epg/370&Title=Astro Cricket&Icon=https://i.imgur.com/3fl3kuD.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-name="" tvg-logo="https://i.imgur.com/XpQBGaD.png" group-title="> World Sport <", Astro SuperSport 1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/123&Title=Astro SuperSport 1&Icon=https://i.imgur.com/XpQBGaD.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-name="" tvg-logo="https://i.imgur.com/oVoWQP3.png" group-title="> World Sport <", Astro SuperSport 2
+plugin://plugin.video.the-loop/eplayer/play?url=epg/124&Title=Astro SuperSport 2&Icon=https://i.imgur.com/oVoWQP3.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-name="" tvg-logo="https://i.imgur.com/1IxtBjB.png" group-title="> World Sport <", Astro SuperSport 3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/125&Title=Astro SuperSport 3&Icon=https://i.imgur.com/1IxtBjB.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-name="" tvg-logo="https://i.imgur.com/A0w02ZA.png" group-title="> World Sport <", Astro SuperSport 4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/126&Title=Astro SuperSport 4&Icon=https://i.imgur.com/A0w02ZA.png
+
+#EXTINF:-1 tvg-id="beIN Sports 1.qa" tvg-name="" tvg-logo="https://i.imgur.com/KnFAGS8.png" group-title="> World Sport <", Bein Sports 1 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/91&Title=Bein Sports 1 Arabia&Icon=https://i.imgur.com/KnFAGS8.png
+
+#EXTINF:-1 tvg-id="beIN Sports 1 EN.qa" tvg-name="" tvg-logo="https://i.imgur.com/4VxNbjS.png" group-title="> World Sport <", Bein Sports 1 English
+plugin://plugin.video.the-loop/eplayer/play?url=epg/61&Title=Bein Sports 1 English&Icon=https://i.imgur.com/4VxNbjS.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="" tvg-logo="https://i.imgur.com/KnFAGS8.png" group-title="> World Sport <", Bein Sports 1 France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/116&Title=Bein Sports 1 France&Icon=https://i.imgur.com/KnFAGS8.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS1 DIGITAL.qa" tvg-name="" tvg-logo="https://i.imgur.com/HblFbgo.png" group-title="> World Sport <", Bein Sports 1 PREMIUM
+plugin://plugin.video.the-loop/eplayer/play?url=epg/98&Title=Bein Sports 1 PREMIUM&Icon=https://i.imgur.com/HblFbgo.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="" tvg-logo="https://i.imgur.com/KnFAGS8.png" group-title="> World Sport <", Bein Sports 1 Turkey
+plugin://plugin.video.the-loop/eplayer/play?url=epg/62&Title=Bein Sports 1 Turkey&Icon=https://i.imgur.com/KnFAGS8.png
+
+#EXTINF:-1 tvg-id="beIN Sports 2.qa" tvg-name="" tvg-logo="https://i.imgur.com/YkvByh8.png" group-title="> World Sport <", Bein Sports 2 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/92&Title=Bein Sports 2 Arabia&Icon=https://i.imgur.com/YkvByh8.png
+
+#EXTINF:-1 tvg-id="beIN Sports 2 EN.qa" tvg-name="" tvg-logo="https://i.imgur.com/FaJxsj3.png" group-title="> World Sport <", Bein Sports 2 English
+plugin://plugin.video.the-loop/eplayer/play?url=epg/90&Title=Bein Sports 2 English&Icon=https://i.imgur.com/FaJxsj3.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="" tvg-logo="https://i.imgur.com/YkvByh8.png" group-title="> World Sport <", Bein Sports 2 France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/117&Title=Bein Sports 2 France&Icon=https://i.imgur.com/YkvByh8.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS2 DIGITAL.qa" tvg-name="" tvg-logo="https://i.imgur.com/ogjYzTV.png" group-title="> World Sport <", Bein Sports 2 PREMIUM
+plugin://plugin.video.the-loop/eplayer/play?url=epg/99&Title=Bein Sports 2 PREMIUM&Icon=https://i.imgur.com/ogjYzTV.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-name="" tvg-logo="https://i.imgur.com/YkvByh8.png" group-title="> World Sport <", Bein Sports 2 Turkey
+plugin://plugin.video.the-loop/eplayer/play?url=epg/63&Title=Bein Sports 2 Turkey&Icon=https://i.imgur.com/YkvByh8.png
+
+#EXTINF:-1 tvg-id="beIN Sports 3.qa" tvg-name="" tvg-logo="https://i.imgur.com/yiIhtJk.png" group-title="> World Sport <", Bein Sports 3 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/93&Title=Bein Sports 3 Arabia&Icon=https://i.imgur.com/yiIhtJk.png
+
+#EXTINF:-1 tvg-id="beIN Sports 3 USA.us" tvg-name="" tvg-logo="https://i.imgur.com/ny87BCt.png" group-title="> World Sport <", Bein Sports 3 English
+plugin://plugin.video.the-loop/eplayer/play?url=epg/46&Title=Bein Sports 3 English&Icon=https://i.imgur.com/ny87BCt.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="" tvg-logo="https://i.imgur.com/yiIhtJk.png" group-title="> World Sport <", Bein Sports 3 France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/118&Title=Bein Sports 3 France&Icon=https://i.imgur.com/yiIhtJk.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS3 DIGITAL.qa" tvg-name="" tvg-logo="https://i.imgur.com/Rtc0RRj.png" group-title="> World Sport <", Bein Sports 3 PREMIUM
+plugin://plugin.video.the-loop/eplayer/play?url=epg/100&Title=Bein Sports 3 PREMIUM&Icon=https://i.imgur.com/Rtc0RRj.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-name="" tvg-logo="https://i.imgur.com/yiIhtJk.png" group-title="> World Sport <", Bein Sports 3 Turkey
+plugin://plugin.video.the-loop/eplayer/play?url=epg/64&Title=Bein Sports 3 Turkey&Icon=https://i.imgur.com/yiIhtJk.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="" tvg-logo="https://i.imgur.com/2XdG7k3.png" group-title="> World Sport <", Bein Sports 4 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/94&Title=Bein Sports 4 Arabia&Icon=https://i.imgur.com/2XdG7k3.png
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4.tr" tvg-name="" tvg-logo="https://i.imgur.com/2XdG7k3.png" group-title="> World Sport <", Bein Sports 4 Turkey
+plugin://plugin.video.the-loop/eplayer/play?url=epg/67&Title=Bein Sports 4 Turkey&Icon=https://i.imgur.com/2XdG7k3.png
+
+#EXTINF:-1 tvg-id="bein.com-05.qa" tvg-name="" tvg-logo="https://i.imgur.com/1v63yEk.png" group-title="> World Sport <", Bein Sports 5 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/95&Title=Bein Sports 5 Arabia&Icon=https://i.imgur.com/1v63yEk.png
+
+#EXTINF:-1 tvg-id="bein.com-06.qa" tvg-name="" tvg-logo="https://i.imgur.com/1pF30B8.png" group-title="> World Sport <", Bein Sports 6 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/96&Title=Bein Sports 6 Arabia&Icon=https://i.imgur.com/1pF30B8.png
+
+#EXTINF:-1 tvg-id="bein.com-07.qa" tvg-name="" tvg-logo="https://i.imgur.com/iwNrkkf.png" group-title="> World Sport <", Bein Sports 7 Arabia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/97&Title=Bein Sports 7 Arabia&Icon=https://i.imgur.com/iwNrkkf.png
+
+#EXTINF:-1 tvg-id="beIN Sports (Spanish).us" tvg-name="" tvg-logo="https://i.imgur.com/jObkLa9.png" group-title="> World Sport <", Bein Sports en Espaol
+plugin://plugin.video.the-loop/eplayer/play?url=epg/372&Title=Bein Sports en Espaol&Icon=https://i.imgur.com/jObkLa9.png
+
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="" tvg-logo="https://i.imgur.com/cih2wJw.png" group-title="> World Sport <", Canal+ Sport 2 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/73&Title=Canal+ Sport 2 Poland&Icon=https://i.imgur.com/cih2wJw.png
+
+#EXTINF:-1 tvg-id="NSportPlus.pl" tvg-name="" tvg-logo="https://i.imgur.com/AUvOAPD.png" group-title="> World Sport <", Canal+ Sport 5 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/75&Title=Canal+ Sport 5 Poland&Icon=https://i.imgur.com/AUvOAPD.png
+
+#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="" tvg-logo="https://i.imgur.com/ONTVHWM.png" group-title="> World Sport <", Canal+ Sport France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/122&Title=Canal+ Sport France&Icon=https://i.imgur.com/ONTVHWM.png
+
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="" tvg-logo="https://i.imgur.com/Lbq810m.png" group-title="> World Sport <", Canal+ Sport Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/48&Title=Canal+ Sport Poland&Icon=https://i.imgur.com/Lbq810m.png
+
+#EXTINF:-1 tvg-id="DAZN 1.es" tvg-name="" tvg-logo="https://i.imgur.com/nZvevo9.png" group-title="> World Sport <", DAZN 1 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/445&Title=DAZN 1 Spain&Icon=https://i.imgur.com/nZvevo9.png
+
+#EXTINF:-1 tvg-id="DAZN 2.es" tvg-name="" tvg-logo="https://i.imgur.com/zEpZFHb.png" group-title="> World Sport <", DAZN 2 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/446&Title=DAZN 2 Spain&Icon=https://i.imgur.com/zEpZFHb.png
+
+#EXTINF:-1 tvg-id="DAZN 3.es" tvg-name="" tvg-logo="https://i.imgur.com/5yRTr8v.png" group-title="> World Sport <", DAZN 3 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/447&Title=DAZN 3 Spain&Icon=https://i.imgur.com/5yRTr8v.png
+
+#EXTINF:-1 tvg-id="DAZN 4.es" tvg-name="" tvg-logo="https://i.imgur.com/kjXBOy1.png" group-title="> World Sport <", DAZN 4 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/448&Title=DAZN 4 Spain&Icon=https://i.imgur.com/kjXBOy1.png
+
+#EXTINF:-1 tvg-id="DAZN F1.es" tvg-name="" tvg-logo="https://i.imgur.com/l0hdGxs.png" group-title="> World Sport <", DAZN F1 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/537&Title=DAZN F1 Spain&Icon=https://i.imgur.com/l0hdGxs.png
+
+#EXTINF:-1 tvg-id="ESPN 1.nl" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="> World Sport <", ESPN 1 NL
+plugin://plugin.video.the-loop/eplayer/play?url=epg/379&Title=ESPN 1 NL&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png
+
+#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-2-nl.png" group-title="> World Sport <", ESPN 2 NL
+plugin://plugin.video.the-loop/eplayer/play?url=epg/386&Title=ESPN 2 NL&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-2-nl.png
+
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="> World Sport <", ESPN Deportes
+plugin://plugin.video.the-loop/eplayer/play?url=epg/375&Title=ESPN Deportes&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="" tvg-logo="https://i.imgur.com/56M5Omu.png" group-title="> World Sport <", Eleven Sports 1 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/71&Title=Eleven Sports 1 Poland&Icon=https://i.imgur.com/56M5Omu.png
+
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="" tvg-logo="https://i.imgur.com/nFcuEXn.png" group-title="> World Sport <", Eleven Sports 2 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/72&Title=Eleven Sports 2 Poland&Icon=https://i.imgur.com/nFcuEXn.png
+
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="" tvg-logo="https://i.imgur.com/4oAZ28Z.png" group-title="> World Sport <", Eleven Sports 3 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/428&Title=Eleven Sports 3 Poland&Icon=https://i.imgur.com/4oAZ28Z.png
+
+#EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="> World Sport <", Euro Sport 1 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/57&Title=Euro Sport 1 Poland&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png
+
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="> World Sport <", Euro Sport 2 Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/58&Title=Euro Sport 2 Poland&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png
+
+#EXTINF:-1 tvg-id="Eurosport 1.es" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="> World Sport <", EuroSport 1 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/524&Title=EuroSport 1 Spain&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png
+
+#EXTINF:-1 tvg-id="Eurosport 2.es" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="> World Sport <", EuroSport 2 Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/525&Title=EuroSport 2 Spain&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png
+
+#EXTINF:-1 tvg-id="Fox Sports 501.au" tvg-name="" tvg-logo="https://i.imgur.com/IGT5qSF.png" group-title="> World Sport <", Fox Sport 501 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/369&Title=Fox Sport 501 AU&Icon=https://i.imgur.com/IGT5qSF.png
+
+#EXTINF:-1 tvg-id="Fox Sports League.au" tvg-name="" tvg-logo="https://i.imgur.com/4SxPUyd.png" group-title="> World Sport <", Fox Sport 502 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/820&Title=Fox Sport 502 AU&Icon=https://i.imgur.com/4SxPUyd.png
+
+#EXTINF:-1 tvg-id="Fox Sports 503.au" tvg-name="" tvg-logo="https://i.imgur.com/MvodVXd.png" group-title="> World Sport <", Fox Sport 503 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/821&Title=Fox Sport 503 AU&Icon=https://i.imgur.com/MvodVXd.png
+
+#EXTINF:-1 tvg-id="Fox Footy.au" tvg-name="" tvg-logo="https://i.imgur.com/4q3rn0n.png" group-title="> World Sport <", Fox Sport 504 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/822&Title=Fox Sport 504 AU&Icon=https://i.imgur.com/4q3rn0n.png
+
+#EXTINF:-1 tvg-id="Fox Sports 505.au" tvg-name="" tvg-logo="https://i.imgur.com/SrmYYjA.png" group-title="> World Sport <", Fox Sport 505 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/823&Title=Fox Sport 505 AU&Icon=https://i.imgur.com/SrmYYjA.png
+
+#EXTINF:-1 tvg-id="Fox Sports 506.au" tvg-name="" tvg-logo="https://i.imgur.com/evstEqw.png" group-title="> World Sport <", Fox Sport 506 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/824&Title=Fox Sport 506 AU&Icon=https://i.imgur.com/evstEqw.png
+
+#EXTINF:-1 tvg-id="Fox Sports More.au" tvg-name="" tvg-logo="https://i.imgur.com/SzXr2Gg.png" group-title="> World Sport <", Fox Sport 507 AU
+plugin://plugin.video.the-loop/eplayer/play?url=epg/825&Title=Fox Sport 507 AU&Icon=https://i.imgur.com/SzXr2Gg.png
+
+#EXTINF:-1 tvg-id="GOL PLAY.es" tvg-name="" tvg-logo="https://i.imgur.com/5ygXame.png" group-title="> World Sport <", Gol Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/530&Title=Gol Spain&Icon=https://i.imgur.com/5ygXame.png
+
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="" tvg-logo="https://i.imgur.com/ttOaIP9.png" group-title="> World Sport <", Motowizja Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/563&Title=Motowizja Poland&Icon=https://i.imgur.com/ttOaIP9.png
+
+#EXTINF:-1 tvg-id="M+ Golf.es" tvg-name="" tvg-logo="https://i.imgur.com/diF34Aj.png" group-title="> World Sport <", Movistar Golf Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/528&Title=Movistar Golf Spain&Icon=https://i.imgur.com/diF34Aj.png
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3.es" tvg-name="" tvg-logo="https://i.imgur.com/IyEz1co.png" group-title="> World Sport <", Movistar La Liga 3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/540&Title=Movistar La Liga 3&Icon=https://i.imgur.com/IyEz1co.png
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV.es" tvg-name="" tvg-logo="https://i.imgur.com/voFG59S.png" group-title="> World Sport <", Movistar La Liga
+plugin://plugin.video.the-loop/eplayer/play?url=epg/84&Title=Movistar La Liga&Icon=https://i.imgur.com/voFG59S.png
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones.es" tvg-name="" tvg-logo="https://i.imgur.com/lryyc8n.png" group-title="> World Sport <", Movistar Liga de Campeones
+plugin://plugin.video.the-loop/eplayer/play?url=epg/435&Title=Movistar Liga de Campeones&Icon=https://i.imgur.com/lryyc8n.png
+
+#EXTINF:-1 tvg-id="Prima.Sport.1.ro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png" group-title="> World Sport <", Prima Sport 1 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/439&Title=Prima Sport 1 Romania&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png
+
+#EXTINF:-1 tvg-id="Prima.Sport.2.ro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png" group-title="> World Sport <", Prima Sport 2 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/440&Title=Prima Sport 2 Romania&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png
+
+#EXTINF:-1 tvg-id="Prima.Sport.3.ro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png" group-title="> World Sport <", Prima Sport 3 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/441&Title=Prima Sport 3 Romania&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png
+
+#EXTINF:-1 tvg-id="Prima.Sport.4.ro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png" group-title="> World Sport <", Prima Sport 4 Romania
+plugin://plugin.video.the-loop/eplayer/play?url=epg/442&Title=Prima Sport 4 Romania&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png
+
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="" tvg-logo="https://i.imgur.com/UjPyTQo.png" group-title="> World Sport <", Polsat Sport Extra Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/50&Title=Polsat Sport Extra Poland&Icon=https://i.imgur.com/UjPyTQo.png
+
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="" tvg-logo="https://i.imgur.com/sop2NT5.png" group-title="> World Sport <", Polsat Sport News Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/129&Title=Polsat Sport News Poland&Icon=https://i.imgur.com/sop2NT5.png
+
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="" tvg-logo="https://i.imgur.com/P4P5FFS.png" group-title="> World Sport <", Polsat Sport Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/47&Title=Polsat Sport Poland&Icon=https://i.imgur.com/P4P5FFS.png
+
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="" tvg-logo="https://i.imgur.com/sop2NT5.png" group-title="> World Sport <", Polsat Sports News Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/443&Title=Polsat Sports News Poland&Icon=https://i.imgur.com/sop2NT5.png
+
+#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-name="" tvg-logo="https://i.imgur.com/5pUHw9U.png" group-title="> World Sport <", RMC Sport 1 France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/119&Title=RMC Sport 1 France&Icon=https://i.imgur.com/5pUHw9U.png
+
+#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="" tvg-logo="https://i.imgur.com/oj6w4Ip.png" group-title="> World Sport <", RMC Sport 2 France
+plugin://plugin.video.the-loop/eplayer/play?url=epg/120&Title=RMC Sport 2 France&Icon=https://i.imgur.com/oj6w4Ip.png
+
+#EXTINF:-1 tvg-id="Real Madrid TV.es" tvg-name="" tvg-logo="https://i.imgur.com/Wwb4qn2.png" group-title="> World Sport <", Real Madrid TV Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/523&Title=Real Madrid TV Spain&Icon=https://i.imgur.com/Wwb4qn2.png
+
+#EXTINF:-1 tvg-id="SK.1.HD.(HR).ba" tvg-name="" tvg-logo="https://i.imgur.com/HcgbURY.png" group-title="> World Sport <", Sport Klub 1 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/101&Title=Sport Klub 1 Serbia&Icon=https://i.imgur.com/HcgbURY.png
+
+#EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-name="" tvg-logo="https://i.imgur.com/RHg9ETy.png" group-title="> World Sport <", Sport Klub 2 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/102&Title=Sport Klub 2 Serbia&Icon=https://i.imgur.com/RHg9ETy.png
+
+#EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-name="" tvg-logo="https://i.imgur.com/xGOZETc.png" group-title="> World Sport <", Sport Klub 3 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/103&Title=Sport Klub 3 Serbia&Icon=https://i.imgur.com/xGOZETc.png
+
+#EXTINF:-1 tvg-id="SK.4.HR.(Portals).ba" tvg-name="" tvg-logo="https://i.imgur.com/KPS04yk.png" group-title="> World Sport <", Sport Klub 4 Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/104&Title=Sport Klub 4 Serbia&Icon=https://i.imgur.com/KPS04yk.png
+
+#EXTINF:-1 tvg-id="SK.HD.HR.(Portals).ba" tvg-name="" tvg-logo="https://i.imgur.com/0n9dyRc.png" group-title="> World Sport <", Sport Klub HD Serbia
+plugin://plugin.video.the-loop/eplayer/play?url=epg/453&Title=Sport Klub HD Serbia&Icon=https://i.imgur.com/0n9dyRc.png
+
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="" tvg-logo="https://i.imgur.com/G3cYPLx.png" group-title="> World Sport <", Sport TV1 Portugal
+plugin://plugin.video.the-loop/eplayer/play?url=epg/49&Title=Sport TV1 Portugal&Icon=https://i.imgur.com/G3cYPLx.png
+
+#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="" tvg-logo="https://i.imgur.com/4TdT7Un.png" group-title="> World Sport <", Sport TV2 Portugal
+plugin://plugin.video.the-loop/eplayer/play?url=epg/74&Title=Sport TV2 Portugal&Icon=https://i.imgur.com/4TdT7Un.png
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-name="" tvg-logo="https://i.imgur.com/LVe4JWx.jpeg" group-title="> World Sport <", SportDigital Fussball
+plugin://plugin.video.the-loop/eplayer/play?url=epg/571&Title=SportDigital Fussball&Icon=https://i.imgur.com/LVe4JWx.jpeg
+
+#EXTINF:-1 tvg-id="CRICKET [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/GTMCqyF.png" group-title="> World Sport <", Super Sport Cricket
+plugin://plugin.video.the-loop/eplayer/play?url=epg/368&Title=Super Sport Cricket&Icon=https://i.imgur.com/GTMCqyF.png
+
+#EXTINF:-1 tvg-id="SS Action [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/pgv3nHD.png" group-title="> World Sport <", SuperSport Action
+plugin://plugin.video.the-loop/eplayer/play?url=epg/420&Title=SuperSport Action&Icon=https://i.imgur.com/pgv3nHD.png
+
+#EXTINF:-1 tvg-id="GOLF [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/6WNWcIh.png" group-title="> World Sport <", SuperSport Golf
+plugin://plugin.video.the-loop/eplayer/play?url=epg/422&Title=SuperSport Golf&Icon=https://i.imgur.com/6WNWcIh.png
+
+#EXTINF:-1 tvg-id="GRANDSTAND [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/SXv0a16.png" group-title="> World Sport <", SuperSport Grandstand
+plugin://plugin.video.the-loop/eplayer/play?url=epg/412&Title=SuperSport Grandstand&Icon=https://i.imgur.com/SXv0a16.png
+
+#EXTINF:-1 tvg-id="SS La Liga [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/hUPH3VV.png" group-title="> World Sport <", SuperSport La Liga
+plugin://plugin.video.the-loop/eplayer/play?url=epg/415&Title=SuperSport La Liga&Icon=https://i.imgur.com/hUPH3VV.png
+
+#EXTINF:-1 tvg-id="MAXIMO 1 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/MJizD0t.png" group-title="> World Sport <", SuperSport MXimo 1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/572&Title=SuperSport MXimo 1&Icon=https://i.imgur.com/MJizD0t.png
+
+#EXTINF:-1 tvg-id="MOTORSPORT [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/Ri9jwiv.png" group-title="> World Sport <", SuperSport Motorsport
+plugin://plugin.video.the-loop/eplayer/play?url=epg/424&Title=SuperSport Motorsport&Icon=https://i.imgur.com/Ri9jwiv.png
+
+#EXTINF:-1 tvg-id="PSL [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/yiAkBBE.png" group-title="> World Sport <", SuperSport PSL
+plugin://plugin.video.the-loop/eplayer/play?url=epg/413&Title=SuperSport PSL&Icon=https://i.imgur.com/yiAkBBE.png
+
+#EXTINF:-1 tvg-id="SS Premier League [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/yV0c1j0.png" group-title="> World Sport <", SuperSport Premier league
+plugin://plugin.video.the-loop/eplayer/play?url=epg/414&Title=SuperSport Premier league&Icon=https://i.imgur.com/yV0c1j0.png
+
+#EXTINF:-1 tvg-id="RUGBY [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/8HJNMKp.png" group-title="> World Sport <", SuperSport Rugby
+plugin://plugin.video.the-loop/eplayer/play?url=epg/421&Title=SuperSport Rugby&Icon=https://i.imgur.com/8HJNMKp.png
+
+#EXTINF:-1 tvg-id="TENNIS [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/rgBwiiQ.png" group-title="> World Sport <", SuperSport Tennis
+plugin://plugin.video.the-loop/eplayer/play?url=epg/423&Title=SuperSport Tennis&Icon=https://i.imgur.com/rgBwiiQ.png
+
+#EXTINF:-1 tvg-id="SS Variety 1 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/62HrlUy.png" group-title="> World Sport <", SuperSport Variety 1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/416&Title=SuperSport Variety 1&Icon=https://i.imgur.com/62HrlUy.png
+
+#EXTINF:-1 tvg-id="SS Variety 2 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/6pvjVLs.png" group-title="> World Sport <", SuperSport Variety 2
+plugin://plugin.video.the-loop/eplayer/play?url=epg/417&Title=SuperSport Variety 2&Icon=https://i.imgur.com/6pvjVLs.png
+
+#EXTINF:-1 tvg-id="SS Variety 3 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/VGrDmNt.png" group-title="> World Sport <", SuperSport Variety 3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/418&Title=SuperSport Variety 3&Icon=https://i.imgur.com/VGrDmNt.png
+
+#EXTINF:-1 tvg-id="SS Variety 4 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/Jgs9U9g.png" group-title="> World Sport <", SuperSport Variety 4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/419&Title=SuperSport Variety 4&Icon=https://i.imgur.com/Jgs9U9g.png
+
+#EXTINF:-1 tvg-id="SS Football [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/2oAqQHG.png" group-title="> World Sport <", Supersport Football
+plugin://plugin.video.the-loop/eplayer/play?url=epg/56&Title=Supersport Football&Icon=https://i.imgur.com/2oAqQHG.png
+
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="" tvg-logo="https://i.imgur.com/LvbAoxB.png" group-title="> World Sport <", TVP Sport Poland
+plugin://plugin.video.the-loop/eplayer/play?url=epg/128&Title=TVP Sport Poland&Icon=https://i.imgur.com/LvbAoxB.png
+
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="" tvg-logo="https://i.imgur.com/AxI56gM.png" group-title="> World Sport <", Teledeporte Spain
+plugin://plugin.video.the-loop/eplayer/play?url=epg/529&Title=Teledeporte Spain&Icon=https://i.imgur.com/AxI56gM.png
+
+#EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-name="" tvg-logo="https://i.imgur.com/DjiEmkR.png" group-title="> World Sport <", Ziggo Sport Docu
+plugin://plugin.video.the-loop/eplayer/play?url=epg/383&Title=Ziggo Sport Docu&Icon=https://i.imgur.com/DjiEmkR.png
+
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-name="" tvg-logo="https://i.imgur.com/eV8Ixkt.png" group-title="> World Sport <", Ziggo Sport Racing
+plugin://plugin.video.the-loop/eplayer/play?url=epg/396&Title=Ziggo Sport Racing&Icon=https://i.imgur.com/eV8Ixkt.png
+
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-name="" tvg-logo="https://i.imgur.com/vXE4dV4.png" group-title="> World Sport <", Ziggo Sport Select
+plugin://plugin.video.the-loop/eplayer/play?url=epg/393&Title=Ziggo Sport Select&Icon=https://i.imgur.com/vXE4dV4.png
+
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="" tvg-logo="https://i.imgur.com/F132Z44.png" group-title="> World Sport <", Ziggo Sport Voetball
+plugin://plugin.video.the-loop/eplayer/play?url=epg/398&Title=Ziggo Sport Voetball&Icon=https://i.imgur.com/F132Z44.png
+
+#EXTINF:-1 tvg-id="Big Ten Network HDTV (National).us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7vifgs1632644223.png" group-title="> USA Sport <", BIG TEN Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/397&Title=BIG TEN Network&Icon=https://www.thesportsdb.com/images/media/channel/logo/7vifgs1632644223.png
+
+#EXTINF:-1 tvg-id="beIN Sports (English).us" tvg-name="" tvg-logo="https://i.imgur.com/H9CQGm7.png" group-title="> USA Sport <", Bein Sports USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/425&Title=Bein Sports USA&Icon=https://i.imgur.com/H9CQGm7.png
+
+#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png" group-title="> USA Sport <", CBS Sports Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/308&Title=CBS Sports Network&Icon=https://www.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="> USA Sport <", ESPN USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/44&Title=ESPN USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="> USA Sport <", ESPN2 USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/45&Title=ESPN2 USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="> USA Sport <", ESPNU USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/316&Title=ESPNU USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png
+
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="> USA Sport <", Fox Sports 1 USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/39&Title=Fox Sports 1 USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png
+
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="> USA Sport <", Fox Sports 2 USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/758&Title=Fox Sports 2 USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png
+
+#EXTINF:-1 tvg-id="The Golf Channel.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png" group-title="> USA Sport <", Golf Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/318&Title=Golf Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png
+
+#EXTINF:-1 tvg-id="MLB Network.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="> USA Sport <", MLB Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/399&Title=MLB Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png
+
+#EXTINF:-1 tvg-id="NBA TV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="> USA Sport <", NBA TV USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/404&Title=NBA TV USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> USA Sport <", NBC USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png
+
+#EXTINF:-1 tvg-id="NBC Sports Bay Area HDTV 24/7.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-us.png" group-title="> USA Sport <", NBC Sports Bay Area
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC Sports Bay Area&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-us.png
+
+#EXTINF:-1 tvg-id="NBC Sports Boston 24/7 HDTV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-us.png" group-title="> USA Sport <", NBC Sports Boston
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC Sports Boston&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-us.png
+
+#EXTINF:-1 tvg-id="NBC Sports California 24/7 HDTV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-california-us.png" group-title="> USA Sport <", NBC Sports California
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC Sports California&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-california-us.png
+
+#EXTINF:-1 tvg-id="NBC Sports Chicago HDTV.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-chicago-us.png" group-title="> USA Sport <", NBC Sports Chicago
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC Sports Chicago&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-chicago-us.png
+
+#EXTINF:-1 tvg-id="NBC Sports Washington HDTV 24/7.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-washington-us.png" group-title="> USA Sport <", NBC Sports Washington
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC Sports Washington&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-washington-us.png
+
+#EXTINF:-1 tvg-id="The NFL Network.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="> USA Sport <", NFL Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/405&Title=NFL Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png
+
+#EXTINF:-1 tvg-id="SEC Network.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/09hyfn1667145376.png" group-title="> USA Sport <", SEC Network USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/385&Title=SEC Network USA&Icon=https://www.thesportsdb.com/images/media/channel/logo/09hyfn1667145376.png
+
+#EXTINF:-1 tvg-id="Sportsnet 360 HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" group-title="> USA Sport <", Sportsnet 360
+plugin://plugin.video.the-loop/eplayer/play?url=epg/409&Title=Sportsnet 360&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png
+
+#EXTINF:-1 tvg-id="Sportsnet (East) HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="> USA Sport <", Sportsnet East
+plugin://plugin.video.the-loop/eplayer/play?url=epg/408&Title=Sportsnet East&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png
+
+#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="> USA Sport <", Sportsnet One
+plugin://plugin.video.the-loop/eplayer/play?url=epg/411&Title=Sportsnet One&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png
+
+#EXTINF:-1 tvg-id="Sportsnet (Ontario) HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="> USA Sport <", Sportsnet Ontario
+plugin://plugin.video.the-loop/eplayer/play?url=epg/406&Title=Sportsnet Ontario&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png
+
+#EXTINF:-1 tvg-id="Sportsnet (West) HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="> USA Sport <", Sportsnet West
+plugin://plugin.video.the-loop/eplayer/play?url=epg/407&Title=Sportsnet West&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png
+
+#EXTINF:-1 tvg-id="Sportsnet World HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="> USA Sport <", Sportsnet World
+plugin://plugin.video.the-loop/eplayer/play?url=epg/410&Title=Sportsnet World&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png
+
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="> USA Sport <", TSN1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/111&Title=TSN1&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png
+
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title="> USA Sport <", TSN2
+plugin://plugin.video.the-loop/eplayer/play?url=epg/112&Title=TSN2&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png
+
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" group-title="> USA Sport <", TSN3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/113&Title=TSN3&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png
+
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="> USA Sport <", TSN4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/114&Title=TSN4&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png
+
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title="> USA Sport <", TSN5
+plugin://plugin.video.the-loop/eplayer/play?url=epg/115&Title=TSN5&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png
+
+#EXTINF:-1 tvg-id="Tennis Channel.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="> USA Sport <", Tennis Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/40&Title=Tennis Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wwe-us.png" group-title="> USA Sport <", WWE Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/376&Title=WWE Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wwe-us.png
+
+#EXTINF:-1 tvg-id="Willow Cricket.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-us.png" group-title="> USA Sport <", Willow Cricket
+plugin://plugin.video.the-loop/eplayer/play?url=epg/346&Title=Willow Cricket&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-us.png
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="> UK Sport <", TNT Sport 1 HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/31&Title=TNT Sport 1 HD&Icon=https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="> UK Sport <", TNT Sport 2 HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/32&Title=TNT Sport 2 HD&Icon=https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/zng7o61689746157.png" group-title="> UK Sport <", TNT Sport 3 HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/33&Title=TNT Sport 3 HD&Icon=https://www.thesportsdb.com/images/media/channel/logo/zng7o61689746157.png
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="> UK Sport <", TNT Sport 4 HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/34&Title=TNT Sport 4 HD&Icon=https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="> UK Sport <", Euro Sport 1 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/41&Title=Euro Sport 1 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="> UK Sport <", Euro Sport 2 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/42&Title=Euro Sport 2 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="> UK Sport <", MUTV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/377&Title=MUTV&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png
+
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" group-title="> UK Sport <", LFCTV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/826&Title=LFCTV&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="> UK Sport <", Premier Sports 1 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/451&Title=Premier Sports 1 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="> UK Sport <", Premier Sports 2 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/550&Title=Premier Sports 2 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png
+
+#EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/60GOSgS.png" group-title="> UK Sport <", Racing UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/555&Title=Racing UK&Icon=https://i.imgur.com/60GOSgS.png
+
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-hz-uk.png" group-title="> UK Sport <", Sky Sport Action UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/37&Title=Sky Sport Action UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-hz-uk.png
+
+#EXTINF:-1 tvg-id="Sky Sports + HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" group-title="> UK Sport <", Sky Sport +
+plugin://plugin.video.the-loop/eplayer/play?url=epg/36&Title=Sky Sport + UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-plus-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="> UK Sport <", Sky Sport Cricket
+plugin://plugin.video.the-loop/eplayer/play?url=epg/65&Title=Sky Sport Cricket&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="> UK Sport <", Sky Sport F1 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/60&Title=Sky Sport F1 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="> UK Sport <", Sky Sport Football UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/35&Title=Sky Sport Football UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-hz-uk.png" group-title="> UK Sport <", Sky Sport Golf
+plugin://plugin.video.the-loop/eplayer/play?url=epg/70&Title=Sky Sport Golf&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="> UK Sport <", Sky Sport MIX UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/449&Title=Sky Sport MIX UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="> UK Sport <", Sky Sport Main Event
+plugin://plugin.video.the-loop/eplayer/play?url=epg/38&Title=Sky Sport Main Event&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/DmYDOTb.png" group-title="> UK Sport <", Sky Sport News UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/366&Title=Sky Sport News UK&Icon=https://i.imgur.com/DmYDOTb.png
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="> UK Sport <", Sky Sport Premier League
+plugin://plugin.video.the-loop/eplayer/play?url=epg/130&Title=Sky Sport Premier League&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/oN1Mt7e.png" group-title="> UK Sport <", Sky Sport Racing UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/554&Title=Sky Sport Racing UK&Icon=https://i.imgur.com/oN1Mt7e.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-name="" tvg-logo="https://i.imgur.com/XpQBGaD.png" group-title="> EPL Channels <", Astro SuperSport 1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/123&Title=Astro SuperSport 1&Icon=https://i.imgur.com/XpQBGaD.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-name="" tvg-logo="https://i.imgur.com/oVoWQP3.png" group-title="> EPL Channels <", Astro SuperSport 2
+plugin://plugin.video.the-loop/eplayer/play?url=epg/124&Title=Astro SuperSport 2&Icon=https://i.imgur.com/oVoWQP3.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-name="" tvg-logo="https://i.imgur.com/1IxtBjB.png" group-title="> EPL Channels <", Astro SuperSport 3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/125&Title=Astro SuperSport 3&Icon=https://i.imgur.com/1IxtBjB.png
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-name="" tvg-logo="https://i.imgur.com/A0w02ZA.png" group-title="> EPL Channels <", Astro SuperSport 4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/126&Title=Astro SuperSport 4&Icon=https://i.imgur.com/A0w02ZA.png
+
+#EXTINF:-1 tvg-id="beIN Sports 1 EN.qa" tvg-name="" tvg-logo="https://i.imgur.com/4VxNbjS.png" group-title="> EPL Channels <", Bein Sports 1 English
+plugin://plugin.video.the-loop/eplayer/play?url=epg/61&Title=Bein Sports 1 English&Icon=https://i.imgur.com/4VxNbjS.png
+
+#EXTINF:-1 tvg-id="beIN Sports 2 EN.qa" tvg-name="" tvg-logo="https://i.imgur.com/FaJxsj3.png" group-title="> EPL Channels <", Bein Sports 2 English
+plugin://plugin.video.the-loop/eplayer/play?url=epg/90&Title=Bein Sports 2 English&Icon=https://i.imgur.com/FaJxsj3.png
+
+#EXTINF:-1 tvg-id="beIN Sports 3 USA.us" tvg-name="" tvg-logo="https://i.imgur.com/ny87BCt.png" group-title="> EPL Channels <", Bein Sports 3 English
+plugin://plugin.video.the-loop/eplayer/play?url=epg/46&Title=Bein Sports 3 English&Icon=https://i.imgur.com/ny87BCt.png
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="> EPL Channels <", Premier Sports 1 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/451&Title=Premier Sports 1 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="> EPL Channels <", Premier Sports 2 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/550&Title=Premier Sports 2 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png
+
+#EXTINF:-1 tvg-id="SS Action [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/EQeEsjz.png" group-title="> EPL Channels <", SuperSport Action
+plugin://plugin.video.the-loop/eplayer/play?url=epg/420&Title=SuperSport Action&Icon=https://i.imgur.com/EQeEsjz.png
+
+#EXTINF:-1 tvg-id="GRANDSTAND [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/r9ejVG3.png" group-title="> EPL Channels <", SuperSport Grandstand
+plugin://plugin.video.the-loop/eplayer/play?url=epg/412&Title=SuperSport Grandstand&Icon=https://i.imgur.com/r9ejVG3.png
+
+#EXTINF:-1 tvg-id="PSL [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/H7opCVK.png" group-title="> EPL Channels <", SuperSport PSL
+plugin://plugin.video.the-loop/eplayer/play?url=epg/413&Title=SuperSport PSL&Icon=https://i.imgur.com/H7opCVK.png
+
+#EXTINF:-1 tvg-id="SS Premier League [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/09PLS7e.png" group-title="> EPL Channels <", SuperSport Premier league
+plugin://plugin.video.the-loop/eplayer/play?url=epg/414&Title=SuperSport Premier league&Icon=https://i.imgur.com/09PLS7e.png
+
+#EXTINF:-1 tvg-id="SS Variety 1 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/ftGQjm6.png" group-title="> EPL Channels <", SuperSport Variety 1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/416&Title=SuperSport Variety 1&Icon=https://i.imgur.com/ftGQjm6.png
+
+#EXTINF:-1 tvg-id="SS Variety 2 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/b5fNekZ.png" group-title="> EPL Channels <", SuperSport Variety 2
+plugin://plugin.video.the-loop/eplayer/play?url=epg/417&Title=SuperSport Variety 2&Icon=https://i.imgur.com/b5fNekZ.png
+
+#EXTINF:-1 tvg-id="SS Variety 3 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/Yxtzff9.png" group-title="> EPL Channels <", SuperSport Variety 3
+plugin://plugin.video.the-loop/eplayer/play?url=epg/418&Title=SuperSport Variety 3&Icon=https://i.imgur.com/Yxtzff9.png
+
+#EXTINF:-1 tvg-id="SS Variety 4 [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/cFyjItU.png" group-title="> EPL Channels <", SuperSport Variety 4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/419&Title=SuperSport Variety 4&Icon=https://i.imgur.com/cFyjItU.png
+
+#EXTINF:-1 tvg-id="SS Football [South Africa].za" tvg-name="" tvg-logo="https://i.imgur.com/FI7k6Lx.png" group-title="> EPL Channels <", Supersport Football
+plugin://plugin.video.the-loop/eplayer/play?url=epg/56&Title=Supersport Football&Icon=https://i.imgur.com/FI7k6Lx.png
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> EPL Channels <", NBC USA
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png
+
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="> EPL Channels <", USA Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/343&Title=USA Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png
+
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="-" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" group-title="> UK Entertainment <", S4C UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/670&Title=S4C UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/xM0Edxq.png" group-title="> UK Entertainment <", Sky Cinema Action UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/677&Title=Sky Cinema Action UK&Icon=https://i.imgur.com/xM0Edxq.png
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/jk03Yto.png" group-title="> UK Entertainment <", Sky Cinema Animation UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/675&Title=Sky Cinema Animation UK&Icon=https://i.imgur.com/jk03Yto.png
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="-" tvg-logo="https://i.imgur.com/xf1RedB.png" group-title="> UK Entertainment <", Sky Cinema Comedy UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/678&Title=Sky Cinema Comedy UK&Icon=https://i.imgur.com/xf1RedB.png
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/iVRHY0J.png" group-title="> UK Entertainment <", Sky Cinema Drama UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/680&Title=Sky Cinema Drama UK&Icon=https://i.imgur.com/iVRHY0J.png
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/hH8UHeQ.png" group-title="> UK Entertainment <", Sky Cinema Family UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/676&Title=Sky Cinema Family UK&Icon=https://i.imgur.com/hH8UHeQ.png
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/YRHM32x.png" group-title="> UK Entertainment <", Sky Cinema Greats UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/674&Title=Sky Cinema Greats UK&Icon=https://i.imgur.com/YRHM32x.png
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/3V8gowR.png" group-title="> UK Entertainment <", Sky Cinema Hits UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/673&Title=Sky Cinema Hits UK&Icon=https://i.imgur.com/3V8gowR.png
+
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-name="-" tvg-logo="https://i.imgur.com/c42BZjg.png" group-title="> UK Entertainment <", Sky Cinema Premiere UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/671&Title=Sky Cinema Premiere UK&Icon=https://i.imgur.com/c42BZjg.png
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/OcMdK5W.png" group-title="> UK Entertainment <", Sky Cinema Sci-Fi Horror
+plugin://plugin.video.the-loop/eplayer/play?url=epg/681&Title=Sky Cinema Sci-Fi Horror&Icon=https://i.imgur.com/OcMdK5W.png
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="-" tvg-logo="https://i.imgur.com/Majr53b.png" group-title="> UK Entertainment <", Sky Cinema Select UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/672&Title=Sky Cinema Select UK&Icon=https://i.imgur.com/Majr53b.png
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/uo78SFP.png" group-title="> UK Entertainment <", Sky Cinema Thriller UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/679&Title=Sky Cinema Thriller UK&Icon=https://i.imgur.com/uo78SFP.png
+
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/vxW5rfJ.png" group-title="> UK Entertainment <", Sky Arts UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/683&Title=Sky Arts UK&Icon=https://i.imgur.com/vxW5rfJ.png
+
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/k34fde0.png" group-title="> UK Entertainment <", Sky Comedy UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/684&Title=Sky Comedy UK&Icon=https://i.imgur.com/k34fde0.png
+
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/in0TETA.png" group-title="> UK Entertainment <", Sky Crime
+plugin://plugin.video.the-loop/eplayer/play?url=epg/685&Title=Sky Crime&Icon=https://i.imgur.com/in0TETA.png
+
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/PftacM6.png" group-title="> UK Entertainment <", Sky History
+plugin://plugin.video.the-loop/eplayer/play?url=epg/686&Title=Sky History&Icon=https://i.imgur.com/PftacM6.png
+
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-name="-" tvg-logo="https://i.imgur.com/6U1PUtU.png" group-title="> UK Entertainment <", Sky Showcase
+plugin://plugin.video.the-loop/eplayer/play?url=epg/682&Title=Sky Showcase&Icon=https://i.imgur.com/6U1PUtU.png
+
+#EXTINF:-1 tvg-id="U.and.GOLD.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/idMsvza.png" group-title="> UK Entertainment <", Gold UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/687&Title=Gold UK&Icon=https://i.imgur.com/idMsvza.png
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/2FT88cw.png" group-title="> UK Entertainment <", Film4 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/688&Title=Film4 UK&Icon=https://i.imgur.com/2FT88cw.png
+

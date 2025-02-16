@@ -1,45 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="> USA Sport <", ESPN USA
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="> USA Sport <", ESPN USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/44&Title=ESPN USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png
 
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="> USA Sport <", ESPN2 USA
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="> USA Sport <", ESPN2 USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/45&Title=ESPN2 USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png
 
-#EXTINF:-1 group-title="Sports" tvg-id="ESPNU.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="> USA Sport <", ESPNU USA
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="> USA Sport <", ESPNU USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/316&Title=ESPNU USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png
 
-#EXTINF:-1 group-title="Sports" tvg-id="Fox Sports 1.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="> USA Sport <", Fox Sports 1 USA
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="> USA Sport <", Fox Sports 1 USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/39&Title=Fox Sports 1 USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png
 
-#EXTINF:-1 group-title="Sports" tvg-id="Fox Sports 2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="> USA Sport <", Fox Sports 2 USA
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="> USA Sport <", Fox Sports 2 USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/758&Title=Fox Sports 2 USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png
 
-#EXTINF:-1 group-title="Network" tvg-id="ABC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="> World Entertainment <", ABC USA
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="> World Entertainment <", ABC USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/51&Title=ABC USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png
 
-#EXTINF:-1 group-title="Network" tvg-id="CBS.us" tvg-name="" tvg-logo="https://i.imgur.com/uqcCFiU.png" group-title="> World Entertainment <", CBS USA
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="" tvg-logo="https://i.imgur.com/uqcCFiU.png" group-title="> World Entertainment <", CBS USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/52&Title=CBS USA&Icon=https://i.imgur.com/uqcCFiU.png
 
-#EXTINF:-1 group-title="Network" tvg-id="NBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> USA Sport <", NBC USA
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> USA Sport <", NBC USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png
 
-#EXTINF:-1 group-title="Network" tvg-id="CNN.us" tvg-name="" tvg-logo="https://i.imgur.com/VQHoh0e.png" group-title="> World Entertainment <", CNN USA
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="" tvg-logo="https://i.imgur.com/VQHoh0e.png" group-title="> World Entertainment <", CNN USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/345&Title=CNN USA&Icon=https://i.imgur.com/VQHoh0e.png
 
-#EXTINF:-1 group-title="Network" tvg-id="BBC America (East).us" tvg-name="" tvg-logo="https://i.imgur.com/Q3nlI0z.png" group-title="> World Entertainment <", BBC America
+#EXTINF:-1 tvg-id="BBC America (East).us" tvg-name="" tvg-logo="https://i.imgur.com/Q3nlI0z.png" group-title="> World Entertainment <", BBC America
 plugin://plugin.video.the-loop/eplayer/play?url=epg/305&Title=BBC America&Icon=https://i.imgur.com/Q3nlI0z.png
 
-#EXTINF:-1 group-title="Network" tvg-id="FOX.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png" group-title="> World Entertainment <", FOX USA
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png" group-title="> World Entertainment <", FOX USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/54&Title=FOX USA&Icon=https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png
 
-#EXTINF:-1 group-title="Network" tvg-id="BBC.One.Lon.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="> UK Entertainment <", BBC One UK
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="> UK Entertainment <", BBC One UK
 plugin://plugin.video.the-loop/eplayer/play?url=epg/356&Title=BBC One UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png
 
-#EXTINF:-1 group-title="Network" tvg-id="HGTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="> UK Entertainment <", BBC One UK
+#EXTINF:-1 tvg-id="HGTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="> UK Entertainment <", BBC One UK
 plugin://plugin.video.the-loop/eplayer/play?url=epg/382&Title=HGTV&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png
 
-#EXTINF:-1 group-title="Network" tvg-id="Food Network HDTV (East).us" tvg-name="" tvg-logo="https://i.imgur.com/3B46KFv.png" group-title="> World Entertainment <", The Food Network
+#EXTINF:-1 tvg-id="Food Network HDTV (East).us" tvg-name="" tvg-logo="https://i.imgur.com/3B46KFv.png" group-title="> World Entertainment <", The Food Network
 plugin://plugin.video.the-loop/eplayer/play?url=epg/384&Title=The Food Network&Icon=https://i.imgur.com/3B46KFv.png
-
-

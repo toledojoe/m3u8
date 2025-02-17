@@ -1,4 +1,5 @@
-#EXTM3U
+
+#EXTM3U url-tvg="https://cutt.ly/Le1JrbXW"
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="> USA Sport <", ESPN USA
 plugin://plugin.video.the-loop/eplayer/play?url=epg/44&Title=ESPN USA&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png
